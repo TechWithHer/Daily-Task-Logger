@@ -30,7 +30,8 @@ Example Output:
 
 Type exit anytime to finish logging for the day.
 
-##Learning Goals
+## Learning Goals
+
 This project teaches:
 read, echo, if, while, date, file I/O
 Bash basics: scripting, permissions, logic
