@@ -13,7 +13,29 @@ A simple and interactive Bash script that logs your daily tasks with timestamps 
 ## 📦 How to Use
 
 1. Clone the repo:
-   ```bash
+
    git clone https://github.com/TechWithHer/Daily-Task-Logger.git
    cd Daily-Task-Logger
    chmod +x task_logger.sh
+2. Run the script:
+./task_logger.sh
+3. View logs:
+cat ~/task_logs/YYYY-MM-DD.log
+
+
+Example Output:
+
+[09:45:12] Completed morning stand-up
+[10:30:05] Wrote daily shell script
+
+Type exit anytime to finish logging for the day.
+
+Learning Goals
+This project teaches:
+
+read, echo, if, while, date, file I/O
+
+Bash basics: scripting, permissions, logic
+
+CLI app development from scratch
+
